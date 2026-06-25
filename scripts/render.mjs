@@ -103,9 +103,9 @@ function buildDashboard(d) {
 
 function buildProfile(d) {
   const repos = new Set(d.merged.items.map(repoOf));
+  // Headingless: the profile README owns the `## Open-source` heading;
+  // the bot only rewrites these stats between the markers.
   return [
-    "### 🌱 Open-source",
-    "",
     `**${d.merged.total} merged PRs** across **${repos.size} repos** · **${d.open.total} open** in flight.`,
     "",
     `→ [Full dashboard](https://github.com/${d.username}/oss-contributions)`,
