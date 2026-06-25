@@ -4,7 +4,30 @@ A live dashboard of my open-source contributions — merged pull requests to
 projects I don't own — regenerated daily from the GitHub API.
 
 <!-- OSS:START -->
-_Dashboard pending first generation._
+## Open-source contributions
+
+**2 merged contributions** across **2 repositories** in 2 orgs.
+
+🔧 **1 open** PR in flight.
+
+### Anchor coverage
+
+- ✅ [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)
+- ▢ [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+- ▢ [TanStack/router](https://github.com/TanStack/router)
+- ▢ [TanStack/query](https://github.com/TanStack/query)
+- ▢ [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+- ▢ [radix-ui/primitives](https://github.com/radix-ui/primitives)
+- ▢ [vercel/next.js](https://github.com/vercel/next.js)
+
+### Recent merged PRs
+
+| Repo | PR | Merged |
+| --- | --- | --- |
+| [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) | [fix(cache-purge): spread SQLite bindings in BucketCachePurge alarm so tag purges run](https://github.com/opennextjs/opennextjs-cloudflare/pull/1289) | 2026-06-24 |
+| [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) | [Create index.js](https://github.com/1995parham/github-do-not-ban-us/pull/85) | 2019-07-26 |
+
+_Last updated 2026-06-25 · generated from the GitHub API._
 <!-- OSS:END -->
 
 ---
