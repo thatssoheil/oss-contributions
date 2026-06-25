@@ -1,0 +1,13 @@
+{
+  "username": "thatssoheil",
+  "recentLimit": 10,
+  "anchors": [
+    "opennextjs/opennextjs-cloudflare",
+    "cloudflare/workers-sdk",
+    "TanStack/router",
+    "TanStack/query",
+    "shadcn-ui/ui",
+    "radix-ui/primitives",
+    "vercel/next.js"
+  ]
+}
