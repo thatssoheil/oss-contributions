@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout dashboard repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Render dashboard README
         env:
@@ -37,7 +37,7 @@ jobs:
           fi
 
       - name: Checkout profile repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: thatssoheil/thatssoheil
           token: ${{ secrets.PROFILE_TOKEN }}
