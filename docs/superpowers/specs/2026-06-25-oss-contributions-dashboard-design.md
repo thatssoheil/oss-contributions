@@ -86,6 +86,7 @@ This file is the successor to the old `oss-contribution-campaign.md` memory. The
 ```json
 {
   "username": "thatssoheil",
+  "recentLimit": 10,
   "anchors": [
     "opennextjs/opennextjs-cloudflare",
     "cloudflare/workers-sdk",
