@@ -33,4 +33,5 @@ _Last updated 2026-06-27 · generated from the GitHub API._
 ---
 
 Built and maintained from [oss-contributions](https://github.com/thatssoheil/oss-contributions).
-Design notes live in `docs/superpowers/`.
+Design notes live in `docs/superpowers/`. Campaign strategy and live state live in
+the private [oss-campaign](https://github.com/thatssoheil/oss-campaign) repo.

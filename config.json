@@ -3,11 +3,11 @@
   "recentLimit": 10,
   "anchors": [
     "opennextjs/opennextjs-cloudflare",
-    "cloudflare/workers-sdk",
-    "TanStack/router",
     "TanStack/query",
     "shadcn-ui/ui",
+    "TanStack/router",
     "radix-ui/primitives",
-    "vercel/next.js"
+    "mastra-ai/mastra",
+    "react-hook-form/react-hook-form"
   ]
 }
