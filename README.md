@@ -33,5 +33,8 @@ _Last updated 2026-06-28 · generated from the GitHub API._
 ---
 
 Built and maintained from [oss-contributions](https://github.com/thatssoheil/oss-contributions).
-Design notes live in `docs/superpowers/`. Campaign strategy and live state live in
-the private [oss-campaign](https://github.com/thatssoheil/oss-campaign) repo.
+Design notes live in `docs/superpowers/`. A running record of contribution
+effort — including issues investigated but not pursued — lives in
+[`docs/scouting-log.md`](docs/scouting-log.md). Campaign strategy and live state
+live in the private [oss-campaign](https://github.com/thatssoheil/oss-campaign)
+repo.
