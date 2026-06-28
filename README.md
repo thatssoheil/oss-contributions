@@ -13,12 +13,12 @@ projects I don't own — regenerated daily from the GitHub API.
 ### Anchor coverage
 
 - ✅ [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)
-- ▢ [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
-- ▢ [TanStack/router](https://github.com/TanStack/router)
 - ▢ [TanStack/query](https://github.com/TanStack/query)
 - ▢ [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+- ▢ [TanStack/router](https://github.com/TanStack/router)
 - ▢ [radix-ui/primitives](https://github.com/radix-ui/primitives)
-- ▢ [vercel/next.js](https://github.com/vercel/next.js)
+- ▢ [mastra-ai/mastra](https://github.com/mastra-ai/mastra)
+- ▢ [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
 
 ### Recent merged PRs
 
@@ -27,7 +27,7 @@ projects I don't own — regenerated daily from the GitHub API.
 | [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) | [fix(cache-purge): spread SQLite bindings in BucketCachePurge alarm so tag purges run](https://github.com/opennextjs/opennextjs-cloudflare/pull/1289) | 2026-06-24 |
 | [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) | [Create index.js](https://github.com/1995parham/github-do-not-ban-us/pull/85) | 2019-07-26 |
 
-_Last updated 2026-06-27 · generated from the GitHub API._
+_Last updated 2026-06-28 · generated from the GitHub API._
 <!-- OSS:END -->
 
 ---
