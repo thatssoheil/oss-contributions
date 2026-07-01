@@ -27,7 +27,7 @@ projects I don't own — regenerated daily from the GitHub API.
 | [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) | [fix(cache-purge): spread SQLite bindings in BucketCachePurge alarm so tag purges run](https://github.com/opennextjs/opennextjs-cloudflare/pull/1289) | 2026-06-24 |
 | [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) | [Create index.js](https://github.com/1995parham/github-do-not-ban-us/pull/85) | 2019-07-26 |
 
-_Last updated 2026-06-30 · generated from the GitHub API._
+_Last updated 2026-07-01 · generated from the GitHub API._
 <!-- OSS:END -->
 
 ---
